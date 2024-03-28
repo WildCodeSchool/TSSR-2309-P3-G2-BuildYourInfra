@@ -1,0 +1,14 @@
+
+| Lieu  	| machine      	| Type            	| Proxmox 	| adresse IP   	| gateway    	| DNS = billu.lan       	| login         	| password             	| WAN           	|
+|-------	|--------------	|-----------------	|---------	|--------------	|------------	|-----------------------	|---------------	|----------------------	|---------------	|
+| Paris 	| SRVWIN1      	| serveur Win2022 	| 380     	| 172.18.1.201 	| 172.18.1.1 	| 172.18.1.201, 8.8.8.8 	| administrator 	| Azerty1*             	|               	|
+| Paris 	| CLIWIN001    	| client win 10   	| 381     	| 172.18.1.5   	| 172.18.1.1 	| 172.18.1.201          	| wilder        	| Azerty1* ou Azerty2* 	|               	|
+| Paris 	| SRVGLPI      	| serveur ubuntu  	| 385     	| 172.18.1.50  	| 172.18.1.1 	| 172.18.1.201          	| glpi          	| Azerty1*             	|               	|
+| Paris 	| SRVWINC2     	| serveur core    	| 387     	| 172.18.1.210 	| 172.18.1.1 	| 172.18.1.201          	| administrator 	| Azerty1*             	|               	|
+| Paris 	| PFSENSE      	| Free/BSD        	| 390     	|              	| 172.18.1.1 	|                       	| admin         	| Azerty1*!@           	| 192.168.1.242 	|
+| Paris 	| SRVBITWARDEN 	| Debian LXC      	| 386     	| 172.18.1.200 	| 172.18.1.1 	| 172.18.1.201          	| bitwaredn     	| Billu2023!           	|               	|
+| Paris 	| CLILIN01     	| client Ubuntu   	| 384     	| 172.18.1.6   	| 172.18.1.1 	| 172.18.1.201          	| wilder        	| Azerty1*             	|               	|
+| Lyon  	| CLIWIN001    	| client win 10   	| 382     	| 10.10.5.5    	| 10.10.5.1  	| 192.168.1.243         	| wilder        	| Azerty1*             	|               	|
+| Lyon  	| PFSENSE      	| Free/BSD        	| 391     	|              	| 10.10.5.1  	|                       	| admin         	| Azerty1*!@           	| 192.168.1.243 	|
+
+

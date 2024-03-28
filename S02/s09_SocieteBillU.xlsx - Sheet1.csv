@@ -1,0 +1,160 @@
+Prenom,Nom,Société,Site,Département,Service,fonction,Manager - prénom,Manager - nom,email,Téléphone fixe,Téléphone portable,Nomadisme - Télétravail
+Alban,Dumas,BillU,Lyon,Communication et Relations publiques,Relation Médias,Rédacteur,Gaelle,Colin,oui,oui,non,non
+Aurelien,Brunet,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Responsable relation média,Gaelle,Colin,oui,oui,non,non
+Corentin,Arnaud,BillU,Lyon,Communication et Relations publiques,Communication interne,Community manager,Gaelle,Colin,oui,oui,non,non
+Diego,Aubert,BillU,Paris 20,Communication et Relations publiques,Communication interne,Community manager,Gaelle,Colin,oui,oui,non,non
+Erwan,Faure,BillU,Paris 20,Communication et Relations publiques,Communication interne,Chargé de communication,Gaelle,Colin,oui,oui,non,non
+Felianne,Fernandez,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Rédacteur,Gaelle,Colin,oui,oui,non,non
+Gaelle,Colin,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Directrice communication,Camille,Martin,oui,oui,non,non
+Gaetan,Roussel,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Webmaster,Gaelle,Colin,oui,oui,non,non
+Ines,Henry,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Webmaster,Gaelle,Colin,oui,oui,non,non
+Laurence,Guerin,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Designer graphique,Gaelle,Colin,oui,oui,non,non
+Loic,Blanc,BillU,Lyon,Communication et Relations publiques,Communication interne,Chargé en droit de la communication,Gaelle,Colin,oui,oui,non,non
+Lukas,Rousseau,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,photographe,Gaelle,Colin,oui,oui,non,non
+Mathias,Muller,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Community manager,Gaelle,Colin,oui,oui,non,non
+Noémie,Leloir,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Consultant,Gaelle,Colin,oui,oui,non,non
+Régina,Illaconnesé,BillU,Lyon,Communication et Relations publiques,Relation Médias,Chargée relation presse,Gaelle,Colin,oui,oui,non,non
+Sophia,Leclerc,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Chargée relation presse,Gaelle,Colin,oui,oui,non,non
+Aarav,Gupta,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Adam,Thomas,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,oui,oui,non,non
+Amélie,Fournier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Amira,El-Mahdi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Arjun,Patel,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Aurélie,Yosef,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Aya,Benali,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Benjamin,Schmitt,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Camille,Blanchet,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Carla,Pelcaut,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,non,oui,non,non
+Charlotte,Giroux,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,oui,oui,non,non
+Chloé,Dubois,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Clara,Garcia,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+David,Vidal,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Dmitri,Ivanov,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Emilien,Gerot,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,non,oui,non,non
+Emma,Leclerc,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Emmanuelle,Leroux,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Eshan,Khan,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Etienne,Legrand,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Fabio,Romano,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Felix,Hoffmann,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,oui,oui,non,non
+Fergie,Lork,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Florent,Houssay,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,non,oui,non,non
+Florian,Rellay,BillU,Paris 20,Développement logiciel,Développement,Responsable developpement Paris,Sofia,Rossi,oui,oui,non,non
+Giovanni,Moretti,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Greta,Schmidt,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Guillaume,Pierre,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,non,oui,non,non
+Hamza,Amari,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Hana,Kim,BillU,Lyon,Développement logiciel,Développement,Responsable développement Lyon,Sofia,Rossi,oui,oui,non,non
+Hao,Wang,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Henri,Lambert,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Ines,Dupont,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Jaxon,Brown,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Jean,Rolland,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Jéremy,Martelant,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,non,oui,non,non
+Joséphine,Robert,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,oui,oui,non,non
+Julia,Schneider,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Kaito,Takahashi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Kevin,Dumont,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Killian,Masson,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Klaus,Becker,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Lea,Girard,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Lina,Müller,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Luc,Martin,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Luca,Duval,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,oui,oui,non,non
+Marius,Sanchez,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Martin,Nguyen,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Matteo,Ferrari,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Mia,Johnson,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Miguel,Hernandez,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Morgan,Perrin,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Nadège,Rouiller,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,oui,oui,non,non
+Nora,O'Sullivan,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Norman,Robin,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Oscar,Gautier,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,oui,oui,non,non
+Pauline,Blanc,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Rafael,Martinez,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Sacha,Lopez,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Samuel,Clement,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Sara,Bernard,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Sébastien,Durand,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Simon,Gauthier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Sofia,Rossi,BillU,Paris 20,Développement logiciel,,Directeur Développement logiciel,Alexis,Bernard,oui,oui,non,non
+Stéphanie,Le Kerbriault,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,non,oui,non,non
+Tristan,Petit,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Tristan,Fontaine,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Victor,Chevalier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Vincent,Gerard,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,oui,oui,non,non
+Wilfried,José,BillU,Paris 20,Développement logiciel,analyse et conception,Responsable analyse et conception,Sofia,Rossi,non,oui,non,non
+William,Lemaire,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,oui,oui,non,non
+Yara,Abadi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Yiannis,Papadopoulos,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Yohan,Pillet,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,non,oui,non,non
+Youssef,Al-Masri,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Zoe,Smith,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,oui,oui,non,non
+Alexis,Bernard,BillU,Paris 20,Direction,,Directeur adjoint,Camille,Martin,oui,oui,non,non
+Antoine,Dubois,BillU,Paris 20,Direction,,Assistant de direction,Camille,Martin,oui,oui,non,non
+Camille,Martin,BillU,Paris 20,Direction,,CEO,-,,oui,oui,non,non
+Aaron,Roche,BillU,Lyon,DSI,Exploitation,Technicien d'exploitation,Anthony,Noel,oui,oui,non,non
+Alan,Meunier,BillU,Paris 20,DSI,Administration Systèmes et Réseaux,Technicien réseaux,Anthony,Noel,oui,oui,non,non
+Anthony,Noel,BillU,Paris 20,DSI,,DSI,Alexis,Bernard,oui,oui,non,non
+Bryan,Perez,BillU,Paris 20,DSI,Exploitation,Technicien d'exploitation,Anthony,Noel,oui,oui,non,non
+Ines,Roger,BillU,Lyon,DSI,Exploitation,Technicien de maintenance,Anthony,Noel,oui,oui,non,non
+Julien,Durand,BillU,Paris 20,DSI,Exploitation,Technicien de maintenance,Anthony,Noel,oui,oui,non,non
+Juliette,Roux,BillU,Paris 20,DSI,Développement et Intégration,Développeur,Anthony,Noel,oui,oui,non,non
+Juliette,Roy,BillU,Paris 20,DSI,Développement et Intégration,Développeur,Anthony,Noel,oui,oui,non,non
+Marie,Meyer,BillU,Paris 20,DSI,Administration Systèmes et Réseaux,Technicien Systèmes,Anthony,Noel,oui,oui,non,non
+Mathis,Mercier,BillU,Lyon,DSI,Administration Systèmes et Réseaux,Technicien réseaux,Anthony,Noel,oui,oui,non,non
+Romain,Vincent,BillU,Paris 20,DSI,Développement et Intégration,Intégrateur,Anthony,Noel,oui,oui,non,non
+Tom,Morel,BillU,Paris 20,DSI,Support,Hotliner,Anthony,Noel,oui,oui,non,non
+Léo,Dubois,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Anaïs,Moreau,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Maximilian,Wagner,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Elena,Sánchez,BillU,Paris 20,Développement logiciel,Test et qualité,Responsable test et qualité,Sofia,Rossi,oui,oui,non,non
+Guido,Bianchi,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Laura,Meunier,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Olivier,Leroy,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Eva,Simon,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Tariq,Aziz,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Marie,Dufour,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Samuel,David,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Nina,Leroux,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,oui,oui,non,non
+Niko,Gruber,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Responsable Recherche,Sofia,Rossi,oui,oui,non,non
+Isabel,Gomez,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,oui,oui,non,non
+Julien,Lefebvre,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,oui,oui,non,non
+Sophie,Mercier,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,oui,oui,non,non
+Manon,Brun,BillU,Lyon,Finance et Comptabilité,Service Comptabilité,Comptable,Gabriel,Michel,oui,oui,non,non
+Quentin,Bertrand,BillU,Lyon,Finance et Comptabilité,Fiscalité,Conseiller en fiscalité,Gabriel,Michel,oui,oui,non,non
+Mael,Laurent,BillU,Paris 20,Finance et Comptabilité,Service Comptabilité,Comptable,Gabriel,Michel,oui,oui,non,non
+Maxime,Lefebvre,BillU,Paris 20,Finance et Comptabilité,Service Comptabilité,Comptable,Gabriel,Michel,oui,oui,non,non
+Gabriel,Michel,BillU,Paris 20,Finance et Comptabilité,Finance,Directeur financier,Alexis,Bernard,oui,oui,non,non
+Matteo,Simon,BillU,Paris 20,Finance et Comptabilité,Finance,Controleur de gestion,Gabriel,Michel,oui,oui,non,non
+Noémie,Andre,BillU,Paris 20,Finance et Comptabilité,Finance,Controleur de gestion,Gabriel,Michel,oui,oui,non,non
+Alex,Barbier,BillU,Paris 20,Finance et Comptabilité,Finance,Analyste financier,Gabriel,Michel,oui,oui,non,non
+Arielle,Leroy,BillU,Paris 20,QHSE,Contrôle Qualité,Responsable QHSE,Alexis,Bernard,oui,oui,non,non
+Lucas,Moreau,BillU,Paris 20,QHSE,Contrôle Qualité,Animateur sécurité,Arielle,Leroy,oui,oui,non,non
+Enzo,Petit,BillU,Paris 20,QHSE,Gestion environnementale,Technicien HSE,Arielle,Leroy,oui,oui,non,non
+Louise,Richard,BillU,Paris 20,QHSE,Certification,Auditeur,Arielle,Leroy,oui,oui,non,non
+Dorian,Blanchard,BillU,Lyon,Service Commercial,B2B,Commercial,Pierre,David,oui,oui,non,non
+Valentin,Bonnet,BillU,Lyon,Service Commercial,B2B,Commercial,Pierre,David,oui,oui,non,non
+Julie,Francois,BillU,Lyon,Service Commercial,Service Client,Agent,Pierre,David,oui,oui,non,non
+Pierre,David,BillU,Paris 20,Service Commercial,,Directeur commercial,Alexis,Bernard,oui,oui,non,non
+Nathan,Dupont,BillU,Paris 20,Service Commercial,B2B,Commercial,Pierre,David,oui,oui,non,non
+Theo,Fournier,BillU,Paris 20,Service Commercial,B2B,Commercial,Pierre,David,oui,oui,non,non
+Jules,Girard,BillU,Paris 20,Service Commercial,Service Client,Agent,Pierre,David,oui,oui,non,non
+Latifa,Jean,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,oui,oui,non,non
+Arnoovik,Jlecht,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,oui,oui,non,non
+Pauline,Lambert,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,oui,oui,non,non
+Jade,Lefevre,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,oui,oui,non,non
+Bastien,Lucas,BillU,Paris 20,Service Commercial,ADV,Responsable ADV,Alexis,Bernard,oui,oui,non,non
+Charles,Marchand,BillU,Paris 20,Service Commercial,Service achat,Acheteur,Kylian,Martinez,oui,oui,non,non
+Dylan,Marie,BillU,Paris 20,Service Commercial,Service achat,Acheteur,Kylian,Martinez,oui,oui,non,non
+Kylian,Martinez,BillU,Paris 20,Service Commercial,Service achat,Responsable achat,Pierre,David,oui,oui,non,non
+Remi,Advezekt,BillU,Lyon,Service Juridique,Protection des données et conformité,Juriste,Gabriel,Michel,oui,oui,non,non
+Robin,Bourgeois,BillU,Paris 20,Service Juridique,Protection des données et conformité,Juriste,Gabriel,Michel,oui,oui,non,non
+Yann,Boyer,BillU,Paris 20,Service Juridique,Protection des données et conformité,Juriste,Gabriel,Michel,oui,oui,non,non
+Hélène,Cault,BillU,Paris 20,Service Juridique,Propriété intellectuelle,Juriste,Gabriel,Michel,oui,oui,non,non
+Faustine,Denis,BillU,Paris 20,Service Juridique,Propriété intellectuelle,Juriste,Gabriel,Michel,oui,oui,non,non
+Célia,Da Silva,BillU,Lyon,Service recrutement,,Agent RH,Christophe,Leroux,oui,oui,non,non
+Christophe,Leroux,BillU,Paris 20,Service recrutement,,Responsable recrutement,Alexis,Bernard,oui,oui,non,non
+Gabriel,Martinez,BillU,Paris 20,Service recrutement,,Agent RH,Christophe,Leroux,oui,oui,non,non
+Mélanie,Carpentier,BillU,Paris 20,Service recrutement,,Agent RH,Christophe,Leroux,oui,oui,non,non

@@ -1,0 +1,168 @@
+Prenom,Nom,Societe,Site,Departement,Service,fonction,Manager-Prenom,Manager-Nom,PC,Date de naissance,Telephone fixe,Telephone portable
+Loic,Blanc,BillU,Lyon,Communication et Relations publiques,Communication interne,Chargé en droit de la communication,Gaelle,Colin,LY88356,03/11/1982  ,0460352162,0747070420  
+Régina,Illaconnesé,BillU,Lyon,Communication et Relations publiques,Relation Médias,Chargée relation presse,Gaelle,Colin,LY99009,16/11/1994  ,0455106945  ,0643567057  
+Corentin,Arnaud,BillU,Lyon,Communication et Relations publiques,Communication interne,Community manager,Gaelle,Colin,LY11094,01/01/1991  ,0448522008,0710630503  
+Alban,Dumas,BillU,Lyon,Communication et Relations publiques,Relation Médias,Rédacteur,Gaelle,Colin,LY78671,02/12/1987  ,0497796902  ,0615034263  
+Gaelle,Colin,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Directrice communication,Camille,Martin,PA23669,23/06/1999  ,0146389837  ,0625101497  
+Erwan,Faure,BillU,Paris 20,Communication et Relations publiques,Communication interne,Chargé de communication,Gaelle,Colin,PA10218,17/06/1993  ,0127364911  ,0707561174  
+Sophia,Leclerc,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Chargée relation presse,Gaelle,Colin,PA76764,10/08/1988  ,0134259365  ,0732836175  
+Diego,Aubert,BillU,Paris 20,Communication et Relations publiques,Communication interne,Community manager,Gaelle,Colin,PA19149,14/05/1989  ,0198004015  ,0736672209  
+Mathias,Muller,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Community manager,Gaelle,Colin,PA63498,08/12/2000  ,0112691924  ,0695993512  
+Noémie,Leloir,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Consultant,Gaelle,Colin,PA68385,14/11/1994  ,0165300831  ,0628752957  
+Laurence,Guerin,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Designer graphique,Gaelle,Colin,PA63117,20/07/1990  ,0114806301  ,0642681764  
+Lukas,Rousseau,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,photographe,Gaelle,Colin,PA74987,19/04/1993  ,0199526389  ,0742450021  
+Felianne,Fernandez,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Rédacteur,Gaelle,Colin,PA92969,17/11/1992  ,0122223912  ,0655605121  
+Aurelien,Brunet,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Responsable relation média,Gaelle,Colin,PA68867,12/03/1985  ,0114409115  ,0778858220  
+Ines,Henry,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Webmaster,Gaelle,Colin,PA39469,05/01/2000  ,0138585445  ,0685150170  
+Gaetan,Roussel,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Webmaster,Gaelle,Colin,PA74884,27/10/1994  ,0181708327  ,0622836246  
+Remi,Advezekt,BillU,Lyon,Département Juridique,Protection des données et conformité,Juriste,Fauve,Hôlth,LY12540,28/05/1997  ,0488168544,0636242191  
+Robin,Bourgeois,BillU,Paris 20,Département Juridique,Protection des données et conformité,Juriste,Fauve,Hôlth,PA33490,17/07/1997  ,0130797419  ,0639419562  
+Yann,Boyer,BillU,Paris 20,Département Juridique,Protection des données et conformité,Juriste,Fauve,Hôlth,PA48690,30/03/1992  ,0198705216  ,0654717439  
+Hélène,Cault,BillU,Paris 20,Département Juridique,Propriété intellectuelle,Juriste,Fauve,Hôlth,PA26363,30/06/1985  ,0155916179  ,0785945155  
+Faustine,Denis,BillU,Paris 20,Département Juridique,Propriété intellectuelle,Juriste,Fauve,Hôlth,PA51856,15/03/1983  ,0102226399  ,0621873155  
+Fauve,Hôlth,BillU,Paris 20,Département Juridique,,Directeur juridique,Camille,Martin,PA87056,08/01/1988,0169521011,0757881221
+Yara,Abadi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY58412,11/08/1985  ,0451574123,0708454747  
+Youssef,Al-Masri,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY51530,29/06/1983  ,0405905726  ,0618291739  
+Hamza,Amari,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY10427,28/10/1993  ,0439648412,0645513470  
+Klaus,Becker,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY52587,18/07/2000  ,0454657209  ,0622495647  
+Aya,Benali,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY77535,29/10/1987,0491397285  ,0673863933  
+Sara,Bernard,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY15299,04/09/1988  ,0405546197  ,0711619222  
+Jaxon,Brown,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY78780,04/02/1995  ,0498967826  ,0669253429  
+Chloé,Dubois,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY69037,01/06/1993  ,0429802914  ,0780423691  
+Ines,Dupont,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY62916,10/10/1997  ,0400574810  ,0753651907  
+Sébastien,Durand,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY27630,25/11/1993  ,0488269699  ,0731301331  
+Amira,El-Mahdi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY55201,29/07/1996  ,0458291595  ,0717702917  
+Matteo,Ferrari,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY96975,23/04/1999  ,0490479587  ,0751795824  
+Clara,Garcia,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY48530,25/12/1993  ,0451005639  ,0798393127  
+Miguel,Hernandez,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY52831,12/06/1982  ,0487788740  ,0786946251  
+Dmitri,Ivanov,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY75404,13/09/1996  ,0461057854  ,0730392491  
+Mia,Johnson,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY67552,07/02/1992  ,0484067444  ,0766852271  
+Eshan,Khan,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY34827,30/01/1994  ,0400651068  ,0775328289  
+Emma,Leclerc,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY19161,06/09/1986  ,0443886736  ,0627944566  
+Luc,Martin,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY94045,23/06/1995  ,0455257323  ,0670595973  
+Rafael,Martinez,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY99298,30/04/1993  ,0483688186,0661495091  
+Lina,Müller,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY25185,02/10/1992  ,0486277364  ,0798336372  
+Nora,O'Sullivan,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY62745,15/01/1988  ,0476666158  ,0614262800  
+Yiannis,Papadopoulos,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY57679,27/04/1991  ,0458513271  ,0773904406  
+Arjun,Patel,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY40065,03/06/2001  ,0492850889  ,0705764979  
+Tristan,Petit,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY74440,14/10/1986  ,0434487630  ,0698147680  
+Fabio,Romano,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY90927,13/08/1995  ,0427089097  ,0619668188  
+Julia,Schneider,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY43252,02/09/1997  ,0493152215  ,0704368428  
+Zoe,Smith,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY53861,19/06/1998  ,0463007325  ,0672951308  
+Kaito,Takahashi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY92121,04/12/1996  ,0440518543  ,0777339340  
+Hao,Wang,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,LY70346,19/07/1984  ,0486484484  ,0744724250  
+Hana,Kim,BillU,Lyon,Développement logiciel,Développement,Responsable développement Lyon,Sofia,Rossi,LY48799,24/07/1987  ,0413831076  ,0768876988  
+Sofia,Rossi,BillU,Paris 20,Développement logiciel,,Directeur Développement logiciel,Alexis,Bernard,PA93655,21/09/1998  ,0185544131  ,0730413931  
+Tariq,Aziz,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA31010,12/03/1989  ,0118152101  ,0647801660  
+Guido,Bianchi,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA27339,25/09/1983  ,0182113602  ,0730980513  
+Camille,Blanchet,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA46875,07/06/2000  ,0123777933  ,0701378315  
+Léo,Dubois,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA84928,07/12/1997  ,0113412179  ,0765420134  
+Marie,Dufour,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA72687,22/05/2000  ,0172501026  ,0788301848  
+Angéline,Lefaivre,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA21358,04/06/1999  ,0173767869  ,0786057610  
+Nina,Leroux,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA31356,21/04/1998  ,0181841113  ,0647953617  
+Olivier,Leroy,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA78411,20/03/1989  ,0164349197  ,0651673840  
+Laura,Meunier,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA46875,30/04/2001  ,0151967077  ,0631955364  
+Anaïs,Moreau,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA31784,11/04/1987  ,0199893110  ,0769898450  
+Eva,Simon,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA81191,20/01/1994  ,0168234613  ,0798546392  
+Maximilian,Wagner,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,PA53201,29/11/1984  ,0139330472  ,0737667848  
+Amélie,Blanchet,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA21577,08/08/2001,0112587884,0655824137  
+Victor,Chevalier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA32765,20/06/1983  ,0141151318  ,0795020444  
+Samuel,Clement,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA45337,07/01/1992  ,0140082611  ,0796039078  
+Kevin,Dumont,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA32275,27/10/1986  ,0139341161  ,0618494053  
+Tristan,Fontaine,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA96447,25/02/1988  ,0164725371  ,0616011877  
+Amélie,Fournier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA60728,22/07/1987  ,0169558261  ,0696862253  
+Simon,Gauthier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA28156,01/11/1992  ,0182968579  ,0714669952  
+Vincent,Gerard,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA52948,18/09/1988  ,0189711764  ,0631705132  
+Emilien,Gerot,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA51163,31/07/1999  ,0192844147  ,0617193385  
+Aarav,Gupta,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA24630,30/06/1994  ,0100606408  ,0719403475  
+Henri,Lambert,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA85194,06/08/1997  ,0177552238,0658827012  
+Etienne,Legrand,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA86254,02/03/2000  ,0181782326  ,0745573456  
+Emmanuelle,Leroux,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA95467,31/10/1982  ,0129776517  ,0734738641  
+Sacha,Lopez,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA19651,10/10/1997  ,0191637578  ,0622463391  
+Fergie,Lork,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA79446,26/07/1996  ,0111709053  ,0677903677  
+Killian,Masson,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA34551,06/10/2000  ,0197598912  ,0614770491  
+Giovanni,Moretti,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA45337,16/01/1995  ,0115472489  ,0624111967  
+Martin,Nguyen,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA57906,18/07/1998  ,0173681100  ,0746634908  
+Carla,Pelcaut,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA77321,07/12/1988  ,0148220132  ,0636116133  
+Morgan,Perrin,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA36514,22/10/1983  ,0172177342  ,0623756785  
+Guillaume,Pierre,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA74884,04/09/2001  ,0173439131  ,0758005990  
+Yohan,Pillet,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA83956,26/12/1998  ,0126545941  ,0717012167  
+Norman,Robin,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA57512,23/09/1993  ,0106149255  ,0600335636  
+Jean,Rolland,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA43813,16/03/1997  ,0157184963  ,0768627276  
+Benjamin,Schmitt,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA33002,10/01/1986  ,0156781217  ,0606434962  
+David,Vidal,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA59874,16/12/1985  ,0112636184  ,0636391825  
+Aurélie,Yosef,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,PA23575,23/08/1990  ,0162527250  ,0642636830  
+Isabel,Gomez,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,PA21386,23/06/1984  ,0158890916  ,0601928581  
+Julien,Lefebvre,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,PA67334,10/12/2001  ,0188811720  ,0761716870  
+Sophie,Mercier,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,PA27339,11/03/1992  ,0138775905  ,0704209714  
+Wilfried,José,BillU,Paris 20,Développement logiciel,analyse et conception,Responsable analyse et conception,Sofia,Rossi,PA14433,29/06/1987  ,0188064257  ,0773629374  
+Florian,Rellay,BillU,Paris 20,Développement logiciel,Développement,Responsable developpement Paris,Sofia,Rossi,PA33002,17/05/1991  ,0126036632  ,0749534624  
+Niko,Gruber,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Responsable Recherche,Sofia,Rossi,PA82471,17/11/1993  ,0148808015  ,0653178244  
+Elena,Sánchez,BillU,Paris 20,Développement logiciel,Test et qualité,Responsable test et qualité,Sofia,Rossi,PA83940,23/12/1986  ,0107161739  ,0628631838  
+Pierre,David,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA31686,13/08/1991  ,0153362358  ,0687144701  
+Luca,Duval,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA18845,25/09/1987  ,0169245840  ,0733490230  
+Oscar,Gautier,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA72016,15/06/1990  ,0149224160  ,0721896573  
+Charlotte,Giroux,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA99876,14/12/1998  ,0100076189  ,0689831708  
+Felix,Hoffmann,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA41987,26/08/1987  ,0158100593  ,0799542128  
+Florent,Houssay,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA90613,12/10/1993  ,0193863109  ,0648003133  
+Stéphanie,Le Kerbriault,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA42543,17/03/1983  ,0132645242  ,0654752526  
+William,Lemaire,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA45623,10/08/1998  ,0184248348  ,0737594879  
+Jéremy,Martelant,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA23575,30/06/1989  ,0171557077  ,0788581252  
+Nadège,Rouiller,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA36514,05/12/1983  ,0174588531  ,0721909875  
+Adam,Thomas,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,PA43813,03/03/1993  ,0109888559  ,0634522796  
+Camille,Martin,BillU,Paris 20,Direction,,CEO,-,,PA12959,09/05/1985  ,0160409379  ,0653791741  
+Antoine,Dubois,BillU,Paris 20,Direction,,Assistant de direction,Camille,Martin,PA75792,12/12/1998  ,0112092812  ,0757172438  
+Alexis,Bernard,BillU,Paris 20,Direction,,Directeur adjoint,Camille,Martin,PA89346,11/04/1991  ,0187246457  ,0738812832  
+Aaron,Roche,BillU,Lyon,DSI,Exploitation,Technicien d'exploitation,Anthony,Noel,LY76820,20/10/2001  ,0400609816  ,0673124437  
+Ines,Roger,BillU,Lyon,DSI,Exploitation,Technicien de maintenance,Anthony,Noel,LY69442,13/12/1997  ,0490987479  ,0617155871  
+Mathis,Mercier,BillU,Lyon,DSI,Administration Systèmes et Réseaux,Technicien réseaux,Anthony,Noel,LY30819,21/08/1993  ,0466874640  ,0745093669  
+Anthony,Noel,BillU,Paris 20,DSI,,DSI,Alexis,Bernard,PA85785,31/10/1990  ,0174752256  ,0663073894  
+Juliette,Roux,BillU,Paris 20,DSI,Développement et Intégration,Développeur,Anthony,Noel,PA73994,30/05/1985  ,0134118694  ,0665692415  
+Juliette,Roy,BillU,Paris 20,DSI,Développement et Intégration,Développeur,Anthony,Noel,PA83956,12/11/1991  ,0104199164  ,0637045158  
+Tom,Morel,BillU,Paris 20,DSI,Support,Hotliner,Anthony,Noel,PA32765,31/03/2001  ,0181640031  ,0666489658  
+Romain,Vincent,BillU,Paris 20,DSI,Développement et Intégration,Intégrateur,Anthony,Noel,PA52103,30/08/1987  ,0192883550  ,0770092044  
+Bryan,Perez,BillU,Paris 20,DSI,Exploitation,Technicien d'exploitation,Anthony,Noel,PA78323,22/05/1993  ,0131204687  ,0664331983  
+Julien,Durand,BillU,Paris 20,DSI,Exploitation,Technicien de maintenance,Anthony,Noel,PA84572,01/05/1989  ,0137916836  ,0704153936  
+Alan,Meunier,BillU,Paris 20,DSI,Administration Systèmes et Réseaux,Technicien réseaux,Anthony,Noel,PA21577,02/08/1995  ,0194124692  ,0687340310  
+Marie,Meyer,BillU,Paris 20,DSI,Administration Systèmes et Réseaux,Technicien Systèmes,Anthony,Noel,PA33490,27/12/1997  ,0134344137  ,0717065142  
+Manon,Brun,BillU,Lyon,Finance et Comptabilité,Service Comptabilité,Comptable,Yacine,Hamad,LY68447,11/06/1998  ,0460954183,0649480527  
+Quentin,Bertrand,BillU,Lyon,Finance et Comptabilité,Fiscalité,Conseiller en fiscalité,Yacine,Hamad,LY31320,22/08/1982  ,0483436266,0754462410  
+Yacine,Hamad,BillU,Paris 20,Finance et Comptabilité,Finance,Directeur financier,Alexis,Bernard,PA68867,18/10/1992,0154314543  ,0648462640  
+Alex,Barbier,BillU,Paris 20,Finance et Comptabilité,Finance,Analyste financier,Yacine,Hamad,PA34551,21/10/1992  ,0153906457  ,0646294583  
+Mael,Laurent,BillU,Paris 20,Finance et Comptabilité,Service Comptabilité,Comptable,Yacine,Hamad,PA30790,14/08/1987  ,0157784039  ,0664308562  
+Maxime,Lefebvre,BillU,Paris 20,Finance et Comptabilité,Service Comptabilité,Comptable,Yacine,Hamad,PA56314,26/05/2000  ,0107939301  ,0641026070  
+Noémie,Andre,BillU,Paris 20,Finance et Comptabilité,Finance,Controleur de gestion,Yacine,Hamad,PA12959,05/05/1995  ,0109401276  ,0685707261  
+Matteo,Simon,BillU,Paris 20,Finance et Comptabilité,Finance,Controleur de gestion,Yacine,Hamad,PA57512,28/11/1986  ,0175097244  ,0764838725  
+Arielle,Leroy,BillU,Paris 20,QHSE,Contrôle Qualité,Responsable QHSE,Alexis,Bernard,PA53466,14/08/1993  ,0187941494  ,0718694265  
+Lucas,Moreau,BillU,Paris 20,QHSE,Contrôle Qualité,Animateur sécurité,Arielle,Leroy,PA26363,28/08/1998  ,0108552477  ,0680922693  
+Louise,Richard,BillU,Paris 20,QHSE,Certification,Auditeur,Arielle,Leroy,PA81191,29/05/1990  ,0159009944  ,0702943570  
+Enzo,Petit,BillU,Paris 20,QHSE,Gestion environnementale,Technicien HSE,Arielle,Leroy,PA74987,24/10/1998  ,0171818675  ,0698698166  
+Julie,Francois,BillU,Lyon,Service Commercial,Service Client,Agent,Pierre,David,LY79817,23/09/1994  ,0420495759,0644551439  
+Dorian,Blanchard,BillU,Lyon,Service Commercial,B2B,Commercial,Pierre,David,LY82880,18/08/1991  ,0451967464,0655939808  
+Valentin,Bonnet,BillU,Lyon,Service Commercial,B2B,Commercial,Pierre,David,LY90176,23/02/1987  ,0439648412,0799413599  
+Pierre,David,BillU,Paris 20,Service Commercial,,Directeur commercial,Alexis,Bernard,PA90233,12/05/1997,0106664984  ,0734442721  
+Bastien,Lucas,BillU,Paris 20,Service Commercial,ADV,Responsable ADV,Alexis,Bernard,PA16564,16/07/1988  ,0154658546  ,0697336293  
+Latifa,Jean,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,PA46917,02/09/1990  ,0114930105  ,0739063477  
+Arnoovik,Jlecht,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,PA16353,19/11/2001  ,0124045383  ,0763236659  
+Pauline,Lambert,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,PA37602,10/11/1987  ,0158406170  ,0606722898  
+Jade,Lefevre,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,PA64810,16/11/1984  ,0180183734  ,0621673896  
+Charles,Marchand,BillU,Paris 20,Service Commercial,Service achat,Acheteur,Kylian,Martinez,PA16013,29/04/1999  ,0167218515  ,0654606027  
+Dylan,Marie,BillU,Paris 20,Service Commercial,Service achat,Acheteur,Kylian,Martinez,PA59874,30/03/1991  ,0113588016  ,0690730213  
+Jules,Girard,BillU,Paris 20,Service Commercial,Service Client,Agent,Pierre,David,PA39395,25/01/1985  ,0163132039  ,0774087186  
+Nathan,Dupont,BillU,Paris 20,Service Commercial,B2B,Commercial,Pierre,David,PA12427,01/02/1992  ,0109336075  ,0662152312  
+Theo,Fournier,BillU,Paris 20,Service Commercial,B2B,Commercial,Pierre,David,PA44614,16/12/1982  ,0181612961  ,0703432899  
+Kylian,Martinez,BillU,Paris 20,Service Commercial,Service achat,Responsable achat,Pierre,David,PA19149,26/08/1988  ,0151530426  ,0696228844  
+Célia,Da Silva,BillU,Lyon,Service recrutement,,Agent RH,Christophe,Leroux,LY66766,31/07/1986  ,0498537902,0631828193  
+Christophe,Leroux,BillU,Paris 20,Service recrutement,,Responsable recrutement,Alexis,Bernard,PA20618,10/05/1992  ,0163902409  ,0784105738  
+Mélanie,Carpentier,BillU,Paris 20,Service recrutement,,Agent RH,Christophe,Leroux,PA31784,09/08/1983  ,0183765728  ,0636748923  
+Damien,Calouhouet,I-magyne,Lyon,Communication et Relations publiques,Relation Médias,Monteur,Aurelien,Brunet,-,-,-,0612558490
+Serge,Kalfandier,Livingston & Associés,Paris 20,Département Juridique,Droit des sociétés,Avocat,Fauve,Hôlth,-,-,0187569924,-
+Irène,Idr-Bongo,Livingston & Associés,Paris 20,Département Juridique,Droit des sociétés,Avocat,Fauve,Hôlth,-,-,0142995102,-
+Jérémie,Allert,Livingston & Associés,Paris 20,Département Juridique,Droit des sociétés,Juriste,Fauve,Hôlth,-,-,0123954236,-
+Nadia,Culcùu,Livingston & Associés,Paris 20,Département Juridique,Droit des sociétés,Juriste,Fauve,Hôlth,-,-,0168235541,-
+Felix,Jean,Studio Dlight,Paris 20,Communication et Relations publiques,Relation Médias,Monteur,Aurelien,Brunet,-,-,-,0684213048
+Esteban,Gonzàlez,UBIHard,Lyon,Développement logiciel,Test et qualité,Testeur,Elena,Sánchez,-,-,-,0628440236
+Rémy,Leriche,UBIHard,Lyon,Développement logiciel,Test et qualité,Testeur,Elena,Sánchez,-,-,-,0695845532
+Fabien,Lecointre,UBIHard,Lyon,Développement logiciel,Test et qualité,Testeur,Elena,Sánchez,-,-,-,0788015584
+Héléna,Kusmérowa,UBIHard,Lyon,Développement logiciel,Test et qualité,Testeur,Elena,Sánchez,-,-,-,0768322535
+Fabien,Hy-D’Jykov,UBIHard,Lyon,Développement logiciel,Test et qualité,Testeur,Elena,Sánchez,-,-,0477322131,0619087602

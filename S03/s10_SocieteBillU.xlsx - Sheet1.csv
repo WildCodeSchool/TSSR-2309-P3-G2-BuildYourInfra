@@ -1,0 +1,160 @@
+Prenom,Nom,Société,Site,Département,Service,fonction,Manager - prénom,Manager - nom,Date de naissance,email,Téléphone fixe,Téléphone portable,Nomadisme - Télétravail
+Yara,Abadi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,11/08/1985  ,Yara.Abadi@BillU.fr,0451574123,0708454747  ,non
+Remi,Advezekt,BillU,Lyon,Service Juridique,Protection des données et conformité,Juriste,Gabriel,Michel,28/05/1997  ,Remi.Advezekt@BillU.fr,0488168544,0636242191  ,non
+Youssef,Al-Masri,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,29/06/1983  ,Youssef.Al-Masri@BillU.fr,0405905726  ,0618291739  ,non
+Hamza,Amari,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,28/10/1993  ,Hamza.Amari@BillU.fr,0439648412,0645513470  ,non
+Noémie,Andre,BillU,Paris 20,Finance et Comptabilité,Finance,Controleur de gestion,Gabriel,Michel,05/05/1995  ,Noémie.Andre@BillU.fr,0109401276  ,0685707261  ,non
+Corentin,Arnaud,BillU,Lyon,Communication et Relations publiques,Communication interne,Community manager,Gaelle,Colin,01/01/1991  ,Corentin.Arnaud@BillU.fr,0448522008,0710630503  ,non
+Diego,Aubert,BillU,Paris 20,Communication et Relations publiques,Communication interne,Community manager,Gaelle,Colin,14/05/1989  ,Diego.Aubert@BillU.fr,0198004015  ,0736672209  ,non
+Tariq,Aziz,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,12/03/1989  ,Tariq.Aziz@BillU.fr,0118152101  ,0647801660  ,non
+Alex,Barbier,BillU,Paris 20,Finance et Comptabilité,Finance,Analyste financier,Gabriel,Michel,21/10/1992  ,Alex.Barbier@BillU.fr,0153906457  ,0646294583  ,non
+Klaus,Becker,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,18/07/2000  ,Klaus.Becker@BillU.fr,0454657209  ,0622495647  ,non
+Aya,Benali,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,29/10/1987,Aya.Benali@BillU.fr,0491397285  ,0673863933  ,non
+Alexis,Bernard,BillU,Paris 20,Direction,,Directeur adjoint,Camille,Martin,11/04/1991  ,Alexis.Bernard@BillU.fr,0187246457  ,0738812832  ,non
+Sara,Bernard,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,04/09/1988  ,Sara.Bernard@BillU.fr,0405546197  ,0711619222  ,non
+Quentin,Bertrand,BillU,Lyon,Finance et Comptabilité,Fiscalité,Conseiller en fiscalité,Gabriel,Michel,22/08/1982  ,Quentin.Bertrand@BillU.fr,0483436266,0754462410  ,non
+Guido,Bianchi,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,25/09/1983  ,Guido.Bianchi@BillU.fr,0182113602  ,0730980513  ,non
+Loic,Blanc,BillU,Lyon,Communication et Relations publiques,Communication interne,Chargé en droit de la communication,Gaelle,Colin,03/11/1982  ,Loic.Blanc@BillU.fr,0460352162,0747070420  ,non
+Pauline,Blanc,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,02/04/1983  ,Pauline.Blanc@BillU.fr,0112587884,0655824137  ,non
+Dorian,Blanchard,BillU,Lyon,Service Commercial,B2B,Commercial,Pierre,David,18/08/1991  ,Dorian.Blanchard@BillU.fr,0451967464,0655939808  ,non
+Camille,Blanchet,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,07/06/2000  ,Camille.Blanchet@BillU.fr,0123777933  ,0701378315  ,non
+Valentin,Bonnet,BillU,Lyon,Service Commercial,B2B,Commercial,Pierre,David,23/02/1987  ,Valentin.Bonnet@BillU.fr,0439648412,0799413599  ,non
+Robin,Bourgeois,BillU,Paris 20,Service Juridique,Protection des données et conformité,Juriste,Gabriel,Michel,17/07/1997  ,Robin.Bourgeois@BillU.fr,0130797419  ,0639419562  ,non
+Yann,Boyer,BillU,Paris 20,Service Juridique,Protection des données et conformité,Juriste,Gabriel,Michel,30/03/1992  ,Yann.Boyer@BillU.fr,0198705216  ,0654717439  ,non
+Jaxon,Brown,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,04/02/1995  ,Jaxon.Brown@BillU.fr,0498967826  ,0669253429  ,non
+Manon,Brun,BillU,Lyon,Finance et Comptabilité,Service Comptabilité,Comptable,Gabriel,Michel,11/06/1998  ,Manon.Brun@BillU.fr,0460954183,0649480527  ,non
+Aurelien,Brunet,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Responsable relation média,Gaelle,Colin,12/03/1985  ,Aurelien.Brunet@BillU.fr,0114409115  ,0778858220  ,non
+Mélanie,Carpentier,BillU,Paris 20,Service recrutement,,Agent RH,Christophe,Leroux,09/08/1983  ,Mélanie.Carpentier@BillU.fr,0183765728  ,0636748923  ,non
+Hélène,Cault,BillU,Paris 20,Service Juridique,Propriété intellectuelle,Juriste,Gabriel,Michel,30/06/1985  ,Hélène.Cault@BillU.fr,0155916179  ,0785945155  ,non
+Victor,Chevalier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,20/06/1983  ,Victor.Chevalier@BillU.fr,0141151318  ,0795020444  ,non
+Samuel,Clement,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,07/01/1992  ,Samuel.Clement@BillU.fr,0140082611  ,0796039078  ,non
+Gaelle,Colin,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Directrice communication,Camille,Martin,23/06/1999  ,Gaelle.Colin@BillU.fr,0146389837  ,0625101497  ,non
+Célia,Da Silva,BillU,Lyon,Service recrutement,,Agent RH,Christophe,Leroux,31/07/1986  ,Célia.Da Silva@BillU.fr,0498537902,0631828193  ,non
+Pierre,David,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,13/08/1991  ,Pierre.David@BillU.fr,0153362358  ,0687144701  ,non
+Samuel,David,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,04/06/1999  ,Samuel.David@BillU.fr,0173767869  ,0786057610  ,non
+Pierre,David,BillU,Paris 20,Service Commercial,,Directeur commercial,Alexis,Bernard,15/11/2000  ,Pierre.David@BillU.fr,0106664984  ,0734442721  ,non
+Faustine,Denis,BillU,Paris 20,Service Juridique,Propriété intellectuelle,Juriste,Gabriel,Michel,15/03/1983  ,Faustine.Denis@BillU.fr,0102226399  ,0621873155  ,non
+Antoine,Dubois,BillU,Paris 20,Direction,,Assistant de direction,Camille,Martin,12/12/1998  ,Antoine.Dubois@BillU.fr,0112092812  ,0757172438  ,non
+Chloé,Dubois,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,01/06/1993  ,Chloé.Dubois@BillU.fr,0429802914  ,0780423691  ,non
+Léo,Dubois,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,07/12/1997  ,Léo.Dubois@BillU.fr,0113412179  ,0765420134  ,non
+Marie,Dufour,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,22/05/2000  ,Marie.Dufour@BillU.fr,0172501026  ,0788301848  ,non
+Alban,Dumas,BillU,Lyon,Communication et Relations publiques,Relation Médias,Rédacteur,Gaelle,Colin,02/12/1987  ,Alban.Dumas@BillU.fr,0497796902  ,0615034263  ,non
+Kevin,Dumont,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,27/10/1986  ,Kevin.Dumont@BillU.fr,0139341161  ,0618494053  ,non
+Ines,Dupont,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,10/10/1997  ,Ines.Dupont@BillU.fr,0400574810  ,0753651907  ,non
+Nathan,Dupont,BillU,Paris 20,Service Commercial,B2B,Commercial,Pierre,David,01/02/1992  ,Nathan.Dupont@BillU.fr,0109336075  ,0662152312  ,non
+Julien,Durand,BillU,Paris 20,DSI,Exploitation,Technicien de maintenance,Anthony,Noel,01/05/1989  ,Julien.Durand@BillU.fr,0137916836  ,0704153936  ,non
+Sébastien,Durand,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,25/11/1993  ,Sébastien.Durand@BillU.fr,0488269699  ,0731301331  ,non
+Luca,Duval,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,25/09/1987  ,Luca.Duval@BillU.fr,0169245840  ,0733490230  ,non
+Amira,El-Mahdi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,29/07/1996  ,Amira.El-Mahdi@BillU.fr,0458291595  ,0717702917  ,non
+Erwan,Faure,BillU,Paris 20,Communication et Relations publiques,Communication interne,Chargé de communication,Gaelle,Colin,17/06/1993  ,Erwan.Faure@BillU.fr,0127364911  ,0707561174  ,non
+Felianne,Fernandez,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Rédacteur,Gaelle,Colin,17/11/1992  ,Felianne.Fernandez@BillU.fr,0122223912  ,0655605121  ,non
+Matteo,Ferrari,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,23/04/1999  ,Matteo.Ferrari@BillU.fr,0490479587  ,0751795824  ,non
+Tristan,Fontaine,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,25/02/1988  ,Tristan.Fontaine@BillU.fr,0164725371  ,0616011877  ,non
+Amélie,Fournier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,22/07/1987  ,Amélie.Fournier@BillU.fr,0169558261  ,0696862253  ,non
+Theo,Fournier,BillU,Paris 20,Service Commercial,B2B,Commercial,Pierre,David,16/12/1982  ,Theo.Fournier@BillU.fr,0181612961  ,0703432899  ,non
+Julie,Francois,BillU,Lyon,Service Commercial,Service Client,Agent,Pierre,David,23/09/1994  ,Julie.Francois@BillU.fr,0420495759,0644551439  ,non
+Clara,Garcia,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,25/12/1993  ,Clara.Garcia@BillU.fr,0451005639  ,0798393127  ,non
+Simon,Gauthier,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,01/11/1992  ,Simon.Gauthier@BillU.fr,0182968579  ,0714669952  ,non
+Oscar,Gautier,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,15/06/1990  ,Oscar.Gautier@BillU.fr,0149224160  ,0721896573  ,non
+Vincent,Gerard,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,18/09/1988  ,Vincent.Gerard@BillU.fr,0189711764  ,0631705132  ,non
+Emilien,Gerot,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,31/07/1999  ,Emilien.Gerot@BillU.fr,0192844147  ,0617193385  ,non
+Lea,Girard,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,25/05/1990  ,Lea.Girard@BillU.fr,0436863487  ,0766899748  ,non
+Jules,Girard,BillU,Paris 20,Service Commercial,Service Client,Agent,Pierre,David,25/01/1985  ,Jules.Girard@BillU.fr,0163132039  ,0774087186  ,non
+Charlotte,Giroux,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,14/12/1998  ,Charlotte.Giroux@BillU.fr,0100076189  ,0689831708  ,non
+Isabel,Gomez,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,23/06/1984  ,Isabel.Gomez@BillU.fr,0158890916  ,0601928581  ,non
+Niko,Gruber,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Responsable Recherche,Sofia,Rossi,17/11/1993  ,Niko.Gruber@BillU.fr,0148808015  ,0653178244  ,non
+Laurence,Guerin,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Designer graphique,Gaelle,Colin,20/07/1990  ,Laurence.Guerin@BillU.fr,0114806301  ,0642681764  ,non
+Aarav,Gupta,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,30/06/1994  ,Aarav.Gupta@BillU.fr,0100606408  ,0719403475  ,non
+Ines,Henry,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Webmaster,Gaelle,Colin,05/01/2000  ,Ines.Henry@BillU.fr,0138585445  ,0685150170  ,non
+Miguel,Hernandez,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,12/06/1982  ,Miguel.Hernandez@BillU.fr,0487788740  ,0786946251  ,non
+Felix,Hoffmann,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,26/08/1987  ,Felix.Hoffmann@BillU.fr,0158100593  ,0799542128  ,non
+Florent,Houssay,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,12/10/1993  ,Florent.Houssay@BillU.fr,0193863109  ,0648003133  ,non
+Régina,Illaconnesé,BillU,Lyon,Communication et Relations publiques,Relation Médias,Chargée relation presse,Gaelle,Colin,16/11/1994  ,Régina.Illaconnesé@BillU.fr,0455106945  ,0643567057  ,non
+Dmitri,Ivanov,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,13/09/1996  ,Dmitri.Ivanov@BillU.fr,0461057854  ,0730392491  ,non
+Latifa,Jean,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,02/09/1990  ,Latifa.Jean@BillU.fr,0114930105  ,0739063477  ,non
+Arnoovik,Jlecht,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,19/11/2001  ,Arnoovik.Jlecht@BillU.fr,0124045383  ,0763236659  ,non
+Mia,Johnson,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,07/02/1992  ,Mia.Johnson@BillU.fr,0484067444  ,0766852271  ,non
+Wilfried,José,BillU,Paris 20,Développement logiciel,analyse et conception,Responsable analyse et conception,Sofia,Rossi,29/06/1987  ,Wilfried.José@BillU.fr,0188064257  ,0773629374  ,non
+Eshan,Khan,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,30/01/1994  ,Eshan.Khan@BillU.fr,0400651068  ,0775328289  ,non
+Hana,Kim,BillU,Lyon,Développement logiciel,Développement,Responsable développement Lyon,Sofia,Rossi,24/07/1987  ,Hana.Kim@BillU.fr,0413831076  ,0768876988  ,non
+Henri,Lambert,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,06/08/1997  ,Henri.Lambert@BillU.fr,0177552238,0658827012  ,non
+Pauline,Lambert,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,10/11/1987  ,Pauline.Lambert@BillU.fr,0158406170  ,0606722898  ,non
+Mael,Laurent,BillU,Paris 20,Finance et Comptabilité,Service Comptabilité,Comptable,Gabriel,Michel,14/08/1987  ,Mael.Laurent@BillU.fr,0157784039  ,0664308562  ,non
+Stéphanie,Le Kerbriault,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,17/03/1983  ,Stéphanie.Le Kerbriault@BillU.fr,0132645242  ,0654752526  ,non
+Sophia,Leclerc,BillU,Paris 20,Communication et Relations publiques,Relation Médias,Chargée relation presse,Gaelle,Colin,10/08/1988  ,Sophia.Leclerc@BillU.fr,0134259365  ,0732836175  ,non
+Emma,Leclerc,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,06/09/1986  ,Emma.Leclerc@BillU.fr,0443886736  ,0627944566  ,non
+Julien,Lefebvre,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,10/12/2001  ,Julien.Lefebvre@BillU.fr,0188811720  ,0761716870  ,non
+Maxime,Lefebvre,BillU,Paris 20,Finance et Comptabilité,Service Comptabilité,Comptable,Gabriel,Michel,26/05/2000  ,Maxime.Lefebvre@BillU.fr,0107939301  ,0641026070  ,non
+Jade,Lefevre,BillU,Paris 20,Service Commercial,ADV,Gestionnaire ADV,Bastien,Lucas,16/11/1984  ,Jade.Lefevre@BillU.fr,0180183734  ,0621673896  ,non
+Etienne,Legrand,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,02/03/2000  ,Etienne.Legrand@BillU.fr,0181782326  ,0745573456  ,non
+Noémie,Leloir,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Consultant,Gaelle,Colin,14/11/1994  ,Noémie.Leloir@BillU.fr,0165300831  ,0628752957  ,non
+William,Lemaire,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,10/08/1998  ,William.Lemaire@BillU.fr,0184248348  ,0737594879  ,non
+Emmanuelle,Leroux,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,31/10/1982  ,Emmanuelle.Leroux@BillU.fr,0129776517  ,0734738641  ,non
+Nina,Leroux,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,21/04/1998  ,Nina.Leroux@BillU.fr,0181841113  ,0647953617  ,non
+Christophe,Leroux,BillU,Paris 20,Service recrutement,,Responsable recrutement,Alexis,Bernard,10/05/1992  ,Christophe.Leroux@BillU.fr,0163902409  ,0784105738  ,non
+Olivier,Leroy,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,20/03/1989  ,Olivier.Leroy@BillU.fr,0164349197  ,0651673840  ,non
+Arielle,Leroy,BillU,Paris 20,QHSE,Contrôle Qualité,Responsable QHSE,Alexis,Bernard,14/08/1993  ,Arielle.Leroy@BillU.fr,0187941494  ,0718694265  ,non
+Sacha,Lopez,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,10/10/1997  ,Sacha.Lopez@BillU.fr,0191637578  ,0622463391  ,non
+Fergie,Lork,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,26/07/1996  ,Fergie.Lork@BillU.fr,0111709053  ,0677903677  ,non
+Bastien,Lucas,BillU,Paris 20,Service Commercial,ADV,Responsable ADV,Alexis,Bernard,16/07/1988  ,Bastien.Lucas@BillU.fr,0154658546  ,0697336293  ,non
+Charles,Marchand,BillU,Paris 20,Service Commercial,Service achat,Acheteur,Kylian,Martinez,29/04/1999  ,Charles.Marchand@BillU.fr,0167218515  ,0654606027  ,non
+Dylan,Marie,BillU,Paris 20,Service Commercial,Service achat,Acheteur,Kylian,Martinez,30/03/1991  ,Dylan.Marie@BillU.fr,0113588016  ,0690730213  ,non
+Jéremy,Martelant,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,30/06/1989  ,Jéremy.Martelant@BillU.fr,0171557077  ,0788581252  ,non
+Camille,Martin,BillU,Paris 20,Direction,,CEO,-,,09/05/1985  ,Camille.Martin@BillU.fr,0160409379  ,0653791741  ,non
+Luc,Martin,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,23/06/1995  ,Luc.Martin@BillU.fr,0455257323  ,0670595973  ,non
+Rafael,Martinez,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,30/04/1993  ,Rafael.Martinez@BillU.fr,0483688186,0661495091  ,non
+Kylian,Martinez,BillU,Paris 20,Service Commercial,Service achat,Responsable achat,Pierre,David,26/08/1988  ,Kylian.Martinez@BillU.fr,0151530426  ,0696228844  ,non
+Gabriel,Martinez,BillU,Paris 20,Service recrutement,,Agent RH,Christophe,Leroux,13/05/1985  ,Gabriel.Martinez@BillU.fr,0133707059  ,0672236451  ,non
+Killian,Masson,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,06/10/2000  ,Killian.Masson@BillU.fr,0197598912  ,0614770491  ,non
+Mathis,Mercier,BillU,Lyon,DSI,Administration Systèmes et Réseaux,Technicien réseaux,Anthony,Noel,21/08/1993  ,Mathis.Mercier@BillU.fr,0466874640  ,0745093669  ,non
+Sophie,Mercier,BillU,Paris 20,Développement logiciel,Recherche et Prototype,Développeur,Niko,Gruber,11/03/1992  ,Sophie.Mercier@BillU.fr,0138775905  ,0704209714  ,non
+Alan,Meunier,BillU,Paris 20,DSI,Administration Systèmes et Réseaux,Technicien réseaux,Anthony,Noel,02/08/1995  ,Alan.Meunier@BillU.fr,0194124692  ,0687340310  ,non
+Laura,Meunier,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,30/04/2001  ,Laura.Meunier@BillU.fr,0151967077  ,0631955364  ,non
+Marie,Meyer,BillU,Paris 20,DSI,Administration Systèmes et Réseaux,Technicien Systèmes,Anthony,Noel,27/12/1997  ,Marie.Meyer@BillU.fr,0134344137  ,0717065142  ,non
+Gabriel,Michel,BillU,Paris 20,Finance et Comptabilité,Finance,Directeur financier,Alexis,Bernard,13/09/1987  ,Gabriel.Michel@BillU.fr,0154314543  ,0648462640  ,non
+Anaïs,Moreau,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,11/04/1987  ,Anaïs.Moreau@BillU.fr,0199893110  ,0769898450  ,non
+Lucas,Moreau,BillU,Paris 20,QHSE,Contrôle Qualité,Animateur sécurité,Arielle,Leroy,28/08/1998  ,Lucas.Moreau@BillU.fr,0108552477  ,0680922693  ,non
+Tom,Morel,BillU,Paris 20,DSI,Support,Hotliner,Anthony,Noel,31/03/2001  ,Tom.Morel@BillU.fr,0181640031  ,0666489658  ,non
+Giovanni,Moretti,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,16/01/1995  ,Giovanni.Moretti@BillU.fr,0115472489  ,0624111967  ,non
+Mathias,Muller,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Community manager,Gaelle,Colin,08/12/2000  ,Mathias.Muller@BillU.fr,0112691924  ,0695993512  ,non
+Lina,Müller,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,02/10/1992  ,Lina.Müller@BillU.fr,0486277364  ,0798336372  ,non
+Martin,Nguyen,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,18/07/1998  ,Martin.Nguyen@BillU.fr,0173681100  ,0746634908  ,non
+Anthony,Noel,BillU,Paris 20,DSI,,DSI,Alexis,Bernard,31/10/1990  ,Anthony.Noel@BillU.fr,0174752256  ,0663073894  ,non
+Nora,O'Sullivan,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,15/01/1988  ,Nora.O'Sullivan@BillU.fr,0476666158  ,0614262800  ,non
+Yiannis,Papadopoulos,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,27/04/1991  ,Yiannis.Papadopoulos@BillU.fr,0458513271  ,0773904406  ,non
+Arjun,Patel,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,03/06/2001  ,Arjun.Patel@BillU.fr,0492850889  ,0705764979  ,non
+Carla,Pelcaut,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,07/12/1988  ,Carla.Pelcaut@BillU.fr,0148220132  ,0636116133  ,non
+Bryan,Perez,BillU,Paris 20,DSI,Exploitation,Technicien d'exploitation,Anthony,Noel,22/05/1993  ,Bryan.Perez@BillU.fr,0131204687  ,0664331983  ,non
+Morgan,Perrin,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,22/10/1983  ,Morgan.Perrin@BillU.fr,0172177342  ,0623756785  ,non
+Tristan,Petit,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,14/10/1986  ,Tristan.Petit@BillU.fr,0434487630  ,0698147680  ,non
+Enzo,Petit,BillU,Paris 20,QHSE,Gestion environnementale,Technicien HSE,Arielle,Leroy,24/10/1998  ,Enzo.Petit@BillU.fr,0171818675  ,0698698166  ,non
+Guillaume,Pierre,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,04/09/2001  ,Guillaume.Pierre@BillU.fr,0173439131  ,0758005990  ,non
+Yohan,Pillet,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,26/12/1998  ,Yohan.Pillet@BillU.fr,0126545941  ,0717012167  ,non
+Florian,Rellay,BillU,Paris 20,Développement logiciel,Développement,Responsable developpement Paris,Sofia,Rossi,17/05/1991  ,Florian.Rellay@BillU.fr,0126036632  ,0749534624  ,non
+Louise,Richard,BillU,Paris 20,QHSE,Certification,Auditeur,Arielle,Leroy,29/05/1990  ,Louise.Richard@BillU.fr,0159009944  ,0702943570  ,non
+Norman,Robin,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,23/09/1993  ,Norman.Robin@BillU.fr,0106149255  ,0600335636  ,non
+Aaron,Roche,BillU,Lyon,DSI,Exploitation,Technicien d'exploitation,Anthony,Noel,20/10/2001  ,Aaron.Roche@BillU.fr,0400609816  ,0673124437  ,non
+Ines,Roger,BillU,Lyon,DSI,Exploitation,Technicien de maintenance,Anthony,Noel,13/12/1997  ,Ines.Roger@BillU.fr,0490987479  ,0617155871  ,non
+Jean,Rolland,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,16/03/1997  ,Jean.Rolland@BillU.fr,0157184963  ,0768627276  ,non
+Fabio,Romano,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,13/08/1995  ,Fabio.Romano@BillU.fr,0427089097  ,0619668188  ,non
+Sofia,Rossi,BillU,Paris 20,Développement logiciel,,Directeur Développement logiciel,Alexis,Bernard,21/09/1998  ,Sofia.Rossi@BillU.fr,0185544131  ,0730413931  ,non
+Nadège,Rouiller,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,05/12/1983  ,Nadège.Rouiller@BillU.fr,0174588531  ,0721909875  ,non
+Lukas,Rousseau,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,photographe,Gaelle,Colin,19/04/1993  ,Lukas.Rousseau@BillU.fr,0199526389  ,0742450021  ,non
+Gaetan,Roussel,BillU,Paris 20,Communication et Relations publiques,Gestion des marques,Webmaster,Gaelle,Colin,27/10/1994  ,Gaetan.Roussel@BillU.fr,0181708327  ,0622836246  ,non
+Juliette,Roux,BillU,Paris 20,DSI,Développement et Intégration,Développeur,Anthony,Noel,30/05/1985  ,Juliette.Roux@BillU.fr,0134118694  ,0665692415  ,non
+Juliette,Roy,BillU,Paris 20,DSI,Développement et Intégration,Développeur,Anthony,Noel,12/11/1991  ,Juliette.Roy@BillU.fr,0104199164  ,0637045158  ,non
+Marius,Sanchez,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,10/03/2000  ,Marius.Sanchez@BillU.fr,0133105468  ,0617393903  ,non
+Elena,Sánchez,BillU,Paris 20,Développement logiciel,Test et qualité,Responsable test et qualité,Sofia,Rossi,23/12/1986  ,Elena.Sánchez@BillU.fr,0107161739  ,0628631838  ,non
+Greta,Schmidt,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,08/07/1991  ,Greta.Schmidt@BillU.fr,0486893493  ,0666143325  ,non
+Benjamin,Schmitt,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,10/01/1986  ,Benjamin.Schmitt@BillU.fr,0156781217  ,0606434962  ,non
+Julia,Schneider,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,02/09/1997  ,Julia.Schneider@BillU.fr,0493152215  ,0704368428  ,non
+Eva,Simon,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,20/01/1994  ,Eva.Simon@BillU.fr,0168234613  ,0798546392  ,non
+Matteo,Simon,BillU,Paris 20,Finance et Comptabilité,Finance,Controleur de gestion,Gabriel,Michel,28/11/1986  ,Matteo.Simon@BillU.fr,0175097244  ,0764838725  ,non
+Zoe,Smith,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,19/06/1998  ,Zoe.Smith@BillU.fr,0463007325  ,0672951308  ,non
+Kaito,Takahashi,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,04/12/1996  ,Kaito.Takahashi@BillU.fr,0440518543  ,0777339340  ,non
+Adam,Thomas,BillU,Paris 20,Développement logiciel,analyse et conception,Développeur,Wilfried,José,03/03/1993  ,Adam.Thomas@BillU.fr,0109888559  ,0634522796  ,non
+David,Vidal,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,16/12/1985  ,David.Vidal@BillU.fr,0112636184  ,0636391825  ,non
+Romain,Vincent,BillU,Paris 20,DSI,Développement et Intégration,Intégrateur,Anthony,Noel,30/08/1987  ,Romain.Vincent@BillU.fr,0192883550  ,0770092044  ,non
+Maximilian,Wagner,BillU,Paris 20,Développement logiciel,Test et qualité,Développeur,Elena,Sánchez,29/11/1984  ,Maximilian.Wagner@BillU.fr,0139330472  ,0737667848  ,non
+Hao,Wang,BillU,Lyon,Développement logiciel,Développement,Développeur,Hana,Kim,19/07/1984  ,Hao.Wang@BillU.fr,0486484484  ,0744724250  ,non
+Aurélie,Yosef,BillU,Paris 20,Développement logiciel,Développement,Développeur,Florian,Rellay,23/08/1990  ,Aurélie.Yosef@BillU.fr,0162527250  ,0642636830  ,non

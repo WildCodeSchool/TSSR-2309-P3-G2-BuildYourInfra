@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (c) Microsoft Corporation.  All rights reserved. --><GroupPolicyBackupScheme bkp:version="2.0" bkp:type="GroupPolicyBackupTemplate" xmlns:bkp="http://www.microsoft.com/GroupPolicy/GPOOperations" xmlns="http://www.microsoft.com/GroupPolicy/GPOOperations">
+    <GroupPolicyObject><SecurityGroups><Group bkp:Source="FromDACL"><Sid><![CDATA[S-1-5-21-514567956-2667131936-4096461276-519]]></Sid><SamAccountName><![CDATA[Enterprise Admins]]></SamAccountName><Type><![CDATA[UniversalGroup]]></Type><NetBIOSDomainName><![CDATA[BILLU]]></NetBIOSDomainName><DnsDomainName><![CDATA[BillU.lan]]></DnsDomainName><UPN><![CDATA[Enterprise Admins@BillU.lan]]></UPN></Group><Group bkp:Source="FromDACL"><Sid><![CDATA[S-1-5-21-514567956-2667131936-4096461276-512]]></Sid><SamAccountName><![CDATA[Domain Admins]]></SamAccountName><Type><![CDATA[GlobalGroup]]></Type><NetBIOSDomainName><![CDATA[BILLU]]></NetBIOSDomainName><DnsDomainName><![CDATA[BillU.lan]]></DnsDomainName><UPN><![CDATA[Domain Admins@BillU.lan]]></UPN></Group><Group bkp:Source="FromDACL"><Sid><![CDATA[S-1-5-21-514567956-2667131936-4096461276-1506]]></Sid><SamAccountName><![CDATA[Developpement]]></SamAccountName><Type><![CDATA[GlobalGroup]]></Type><NetBIOSDomainName><![CDATA[BILLU]]></NetBIOSDomainName><DnsDomainName><![CDATA[BillU.lan]]></DnsDomainName><UPN><![CDATA[Developpement@BillU.lan]]></UPN></Group><Group bkp:Source="FromDACL"><Sid><![CDATA[S-1-5-21-514567956-2667131936-4096461276-1682]]></Sid><SamAccountName><![CDATA[GRP_Computer]]></SamAccountName><Type><![CDATA[GlobalGroup]]></Type><NetBIOSDomainName><![CDATA[BILLU]]></NetBIOSDomainName><DnsDomainName><![CDATA[BillU.lan]]></DnsDomainName><UPN><![CDATA[GRP_Computer@BillU.lan]]></UPN></Group></SecurityGroups><FilePaths><Path><![CDATA[\\WIN-0ER37LDHOBT\Users\Administrator\Desktop\Dossier Partager]]></Path></FilePaths><GroupPolicyCoreSettings><ID><![CDATA[{772BD5ED-044E-438A-BE4C-D6C04944E41C}]]></ID><Domain><![CDATA[BillU.lan]]></Domain><SecurityDescriptor>01 00 04 9c 00 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 04 00 68 01 0a 00 00 00 05 02 38 00 00 01 00 00 01 00 00 00 8f fd ac ed b3 ff d1 11 b4 1d 00 a0 c9 68 f9 39 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 92 06 00 00 05 02 38 00 00 01 00 00 01 00 00 00 8f fd ac ed b3 ff d1 11 b4 1d 00 a0 c9 68 f9 39 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 e2 05 00 00 00 00 24 00 ff 00 0f 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 00 02 00 00 00 02 24 00 14 00 02 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 92 06 00 00 00 02 24 00 14 00 02 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 e2 05 00 00 00 02 24 00 ff 00 0f 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 00 02 00 00 00 02 24 00 ff 00 0f 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 07 02 00 00 00 02 14 00 94 00 02 00 01 01 00 00 00 00 00 05 09 00 00 00 00 02 14 00 ff 00 0f 00 01 01 00 00 00 00 00 05 12 00 00 00 00 0a 14 00 ff 00 0f 00 01 01 00 00 00 00 00 03 00 00 00 00</SecurityDescriptor><DisplayName><![CDATA[Computer_7zip_Install]]></DisplayName><Options><![CDATA[1]]></Options><UserVersionNumber><![CDATA[0]]></UserVersionNumber><MachineVersionNumber><![CDATA[65537]]></MachineVersionNumber><MachineExtensionGuids><![CDATA[[{C6DC5466-785A-11D2-84D0-00C04FB169F7}{942A8E4F-A261-11D1-A760-00C04FB9603F}]]]></MachineExtensionGuids><UserExtensionGuids/><WMIFilter/></GroupPolicyCoreSettings> 
+        <GroupPolicyExtension bkp:ID="{35378EAC-683F-11D2-A89A-00C04FBBCFA2}" bkp:DescName="Registry">
+            
+            
+            <FSObjectFile bkp:Path="%GPO_FSPATH%\Adm\*.*" bkp:SourceExpandedPath="\\WIN-0ER37LDHOBT.BillU.lan\sysvol\BillU.lan\Policies\{772BD5ED-044E-438A-BE4C-D6C04944E41C}\Adm\*.*"/>
+        </GroupPolicyExtension>
+        
+        
+        
+        
+        
+        
+        
+        
+        <GroupPolicyExtension bkp:ID="{c6dc5466-785a-11d2-84d0-00c04fb169f7}" bkp:DescName="Software Installation">
+            
+        <DSObject bkp:Path="cn=Class Store,%GPO_MACH_DSPATH%" bkp:ObjectClass="classStore" bkp:SourceExpandedPath="cn=Class Store,cn=Machine,cn={772BD5ED-044E-438A-BE4C-D6C04944E41C},CN=Policies,CN=System,DC=BillU,DC=lan">
+                <DSObject bkp:Path="cn=Packages,cn=Class Store,%GPO_MACH_DSPATH%" bkp:ObjectClass="classStore" bkp:SourceExpandedPath="cn=Packages,cn=Class Store,cn=Machine,cn={772BD5ED-044E-438A-BE4C-D6C04944E41C},CN=Policies,CN=System,DC=BillU,DC=lan">
+                    <DSObject bkp:Path="*,cn=Packages,cn=Class Store,%GPO_MACH_DSPATH%" bkp:ObjectClass="packageRegistration" bkp:SourceExpandedPath="*,cn=Packages,cn=Class Store,cn=Machine,cn={772BD5ED-044E-438A-BE4C-D6C04944E41C},CN=Policies,CN=System,DC=BillU,DC=lan" bkp:ReEvaluateFunction="SIProcessAllPackageObjects"><DSObject bkp:ObjectClass="packageRegistration" bkp:Path="CN=72fdab89-18c6-4f4e-99bf-2c8673846a57,CN=Packages,CN=Class Store,%GPO_MACH_DSPATH%" bkp:SourceExpandedPath="CN=72fdab89-18c6-4f4e-99bf-2c8673846a57,CN=Packages,CN=Class Store,cn=Machine,cn={772BD5ED-044E-438A-BE4C-D6C04944E41C},CN=Policies,CN=System,DC=BillU,DC=lan" bkp:ReEvaluateFunction="SIProcessPackageObject"><FSObjectFile bkp:Path="%GPO_MACH_FSPATH%\Applications\{244B29F3-1D79-49B0-9F1F-36154B0FD6EC}.aas" bkp:SourceExpandedPath="\\WIN-0ER37LDHOBT.BillU.lan\sysvol\BillU.lan\Policies\{772BD5ED-044E-438A-BE4C-D6C04944E41C}\Machine\Applications\{244B29F3-1D79-49B0-9F1F-36154B0FD6EC}.aas" bkp:Location="DomainSysvol\GPO\Machine\Applications\{244B29F3-1D79-49B0-9F1F-36154B0FD6EC}.aas"/>
+                        <SecurityDescriptor>01 00 04 8c 00 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 04 00 90 01 0c 00 00 00 00 00 24 00 ff 01 0f 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 00 02 00 00 00 00 14 00 94 00 02 00 01 01 00 00 00 00 00 05 0b 00 00 00 00 00 14 00 ff 01 0f 00 01 01 00 00 00 00 00 05 12 00 00 00 05 12 38 00 00 01 00 00 01 00 00 00 8f fd ac ed b3 ff d1 11 b4 1d 00 a0 c9 68 f9 39 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 92 06 00 00 05 12 38 00 00 01 00 00 01 00 00 00 8f fd ac ed b3 ff d1 11 b4 1d 00 a0 c9 68 f9 39 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 e2 05 00 00 00 12 24 00 14 00 02 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 92 06 00 00 00 12 24 00 14 00 02 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 e2 05 00 00 00 12 24 00 ff 00 0f 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 00 02 00 00 00 12 24 00 ff 00 0f 00 01 05 00 00 00 00 00 05 15 00 00 00 14 af ab 1e 20 34 f9 9e dc 09 2b f4 07 02 00 00 00 12 14 00 94 00 02 00 01 01 00 00 00 00 00 05 09 00 00 00 00 12 14 00 ff 00 0f 00 01 01 00 00 00 00 00 05 12 00 00 00 00 1a 14 00 ff 00 0f 00 01 01 00 00 00 00 00 03 00 00 00 00</SecurityDescriptor>
+                        <DSAttributeBinary bkp:DSAttrName="objectGUID"><DSValue><![CDATA[c1 f0 27 f9 28 62 59 4a 9f 70 1c 28 ae fe e3 f5]]></DSValue></DSAttributeBinary>
+                        <DSAttributeMultiString bkp:DSAttrName="cOMClassID"><DSValue><![CDATA[00000000-0000-0000-0000-000000000000:0]]></DSValue></DSAttributeMultiString>
+                        <DSAttributeMultiString bkp:DSAttrName="cOMProgID"/>
+                        <DSAttributeMultiString bkp:DSAttrName="fileExtPriority"/>
+                        <DSAttributeMultiDWORD bkp:DSAttrName="localeID"><DSValue><![CDATA[1033]]></DSValue></DSAttributeMultiDWORD>
+                        <DSAttributeMultiDWORD bkp:DSAttrName="machineArchitecture"><DSValue><![CDATA[150996226]]></DSValue></DSAttributeMultiDWORD>
+                        <DSAttributeDWORD bkp:DSAttrName="versionNumberHi"><DSValue><![CDATA[21]]></DSValue></DSAttributeDWORD>
+                        <DSAttributeDWORD bkp:DSAttrName="versionNumberLo"><DSValue><![CDATA[7]]></DSValue></DSAttributeDWORD>
+                        <DSAttributeDWORD bkp:DSAttrName="revision"><DSValue><![CDATA[0]]></DSValue></DSAttributeDWORD>
+                        <DSAttributeDWORD bkp:DSAttrName="packageType"><DSValue><![CDATA[5]]></DSValue></DSAttributeDWORD>
+                        <DSAttributeDWORD bkp:DSAttrName="packageFlags"><DSValue><![CDATA[2684374128]]></DSValue></DSAttributeDWORD>
+                        <DSAttributeString bkp:DSAttrName="packageName"><DSValue><![CDATA[7-Zip 21.07 (x64 edition)]]></DSValue></DSAttributeString>
+                        <DSAttributeString bkp:DSAttrName="msiScriptPath"><DSValue><![CDATA[\\BillU.lan\SysVol\BillU.lan\Policies\{772BD5ED-044E-438A-BE4C-D6C04944E41C}\Machine\Applications\{244B29F3-1D79-49B0-9F1F-36154B0FD6EC}.aas]]></DSValue></DSAttributeString>
+                        <DSAttributeString bkp:DSAttrName="msiScriptName"><DSValue><![CDATA[A]]></DSValue></DSAttributeString>
+                        <DSAttributeDWORD bkp:DSAttrName="msiScriptSize"/>
+                        <DSAttributeMultiString bkp:DSAttrName="url"><DSValue><![CDATA[http://www.7-zip.org/support.html]]></DSValue></DSAttributeMultiString>
+                        <DSAttributeString bkp:DSAttrName="setupCommand"/>
+                        <DSAttributeString bkp:DSAttrName="lastUpdateSequence"><DSValue><![CDATA[20231207100012]]></DSValue></DSAttributeString>
+                        <DSAttributeMultiString bkp:DSAttrName="msiFileList"><DSValue><![CDATA[0:\\WIN-0ER37LDHOBT\Users\Administrator\Desktop\Dossier Partager\7z2107-x64.msi]]></DSValue></DSAttributeMultiString>
+                        <DSAttributeMultiString bkp:DSAttrName="categories"/>
+                        <DSAttributeMultiString bkp:DSAttrName="canUpgradeScript"/>
+                        <DSAttributeDWORD bkp:DSAttrName="installUiLevel"><DSValue><![CDATA[5]]></DSValue></DSAttributeDWORD>
+                        <DSAttributeBinary bkp:DSAttrName="msiScript"/>
+                        <DSAttributeString bkp:DSAttrName="displayName"><DSValue><![CDATA[7-Zip 21.07 (x64 edition)]]></DSValue></DSAttributeString>
+                        <DSAttributeBinary bkp:DSAttrName="productCode"><DSValue><![CDATA[69 0f 17 23 c1 40 02 27 21 07 00 00 01 00 00 00]]></DSValue></DSAttributeBinary>
+                        <DSAttributeBinary bkp:DSAttrName="upgradeProductCode"><DSValue><![CDATA[69 0f 17 23 c1 40 02 27 00 00 00 00 04 00 00 00]]></DSValue></DSAttributeBinary>
+                        <DSAttributeString bkp:DSAttrName="Vendor"/>
+                    </DSObject>
+                        <SecurityDescriptor/>
+                        <DSAttributeBinary bkp:DSAttrName="objectGUID"/>
+                        <DSAttributeMultiString bkp:DSAttrName="cOMClassID"/>
+                        <DSAttributeMultiString bkp:DSAttrName="cOMProgID"/>
+                        <DSAttributeMultiString bkp:DSAttrName="fileExtPriority"/>
+                        <DSAttributeMultiDWORD bkp:DSAttrName="localeID"/>
+                        <DSAttributeMultiDWORD bkp:DSAttrName="machineArchitecture"/>
+                        <DSAttributeDWORD bkp:DSAttrName="versionNumberHi"/>
+                        <DSAttributeDWORD bkp:DSAttrName="versionNumberLo"/>
+                        <DSAttributeDWORD bkp:DSAttrName="revision"/>
+                        <DSAttributeDWORD bkp:DSAttrName="packageType"/>
+                        <DSAttributeDWORD bkp:DSAttrName="packageFlags"/>
+                        <DSAttributeString bkp:DSAttrName="packageName"/>
+                        <DSAttributeString bkp:DSAttrName="msiScriptPath"/>
+                        <DSAttributeString bkp:DSAttrName="msiScriptName"/>
+                        <DSAttributeDWORD bkp:DSAttrName="msiScriptSize"/>
+                        <DSAttributeMultiString bkp:DSAttrName="url"/>
+                        <DSAttributeString bkp:DSAttrName="setupCommand"/>
+                        <DSAttributeString bkp:DSAttrName="lastUpdateSequence"/>
+                        <DSAttributeMultiString bkp:DSAttrName="msiFileList"/>
+                        <DSAttributeMultiString bkp:DSAttrName="categories"/>
+                        <DSAttributeMultiString bkp:DSAttrName="canUpgradeScript"/>
+                        <DSAttributeDWORD bkp:DSAttrName="installUiLevel"/>
+                        <DSAttributeBinary bkp:DSAttrName="msiScript"/>
+                        <DSAttributeString bkp:DSAttrName="displayName"/>
+                        <DSAttributeBinary bkp:DSAttrName="productCode"/>
+                        <DSAttributeBinary bkp:DSAttrName="upgradeProductCode"/>
+                        <DSAttributeString bkp:DSAttrName="Vendor"/>
+                    </DSObject>
+                </DSObject>
+                <DSAttributeDWORD bkp:DSAttrName="appSchemaVersion"><DSValue><![CDATA[1740]]></DSValue></DSAttributeDWORD>
+                <DSAttributeString bkp:DSAttrName="extensionName"><DSValue><![CDATA[Computer_7zip_Install]]></DSValue></DSAttributeString>
+                <DSAttributeString bkp:DSAttrName="description"><DSValue><![CDATA[Application Store]]></DSValue></DSAttributeString>
+                <DSAttributeExpandedString bkp:DSAttrName="displayName">
+                    <DSValue>LDAP://%GPO_DSPATH%</DSValue>
+                </DSAttributeExpandedString>
+            </DSObject>
+        </GroupPolicyExtension>
+    <GroupPolicyExtension bkp:ID="{F15C46CD-82A0-4C2D-A210-5D0D3182A418}" bkp:DescName="Unknown Extension"><FSObjectDir bkp:Path="%GPO_MACH_FSPATH%\Applications" bkp:SourceExpandedPath="\\WIN-0ER37LDHOBT.BillU.lan\sysvol\BillU.lan\Policies\{772BD5ED-044E-438A-BE4C-D6C04944E41C}\Machine\Applications" bkp:Location="DomainSysvol\GPO\Machine\Applications"/></GroupPolicyExtension></GroupPolicyObject>
+</GroupPolicyBackupScheme>
